@@ -1277,3 +1277,5 @@ class TileUtilities {
     return world;
   }
 }
+
+module.exports = TileUtilities;
