@@ -1,0 +1,11 @@
+{
+  "name": "tile-utilities",
+  "version": "1.0.0",
+  "description": "-",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "main": "./src/tileUtilities.js",
+  "readme": "-"
+}
